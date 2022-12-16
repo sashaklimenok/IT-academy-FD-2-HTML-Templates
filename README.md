@@ -1,1 +1,1 @@
-# FD-2-HTML-Tenplates
+# FD-2-HTML-Templates
